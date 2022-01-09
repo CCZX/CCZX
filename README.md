@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 I’m currently learning React, JavaScript, TypeScript
+- 🌱 I’m currently learning React, JavaScript, TypeScript，webGL
 
 <!--
 - 👯 I’m looking to collaborate on ...
